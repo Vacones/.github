@@ -9,7 +9,8 @@ El proyecto se dividió en dos repositorios:
 | Repositorio | Contenido |
 |---|---|
 | **Documentación-VC** | Documentación del proyecto correspondiente a la metodología CRISP-DM |
-| **Modelos** | Código de los modelos |
+| **Modelos_BCS** | Código de los modelos |
+| **Vacones_Backend** | Backend de la aplicación |
  
 ### Documentación
  
